@@ -1,6 +1,6 @@
 CFLAGS=-Wall -g
 
-all: exercise1 exercise3 exercise4 exercise7 exercise8 exercise9 exercise10 exercise11 exercise12
+all: exercise1 exercise3 exercise4 exercise7 exercise8 exercise9 exercise10 exercise11 exercise12 exercise13
 
 clean:
-	rm -f exercise1 exercise3 exercise4 exercise7 exercise8 exercise9 exercise10 exercise11 exercise12
+	rm -f exercise1 exercise3 exercise4 exercise7 exercise8 exercise9 exercise10 exercise11 exercise12 exercise13
